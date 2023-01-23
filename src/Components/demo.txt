@@ -1,0 +1,24 @@
+Job Description: 
+A company focused on PhotoGraphy service, currently looking for a full-stack web developer to build their photography service website.
+
+Task Description: 
+Make a Photography website that shows all services on the home page as the UI, Feel free to make your own design.
+Add a Header, Footer, and a Banner.
+Users see all the services. Every Service has two buttons one is view more another is buy now.
+When a visitor clicks on a view more button, she/he should be taken to the product details page where the visitor can read more information about these services. 
+But when they click the buy now button it goes to the checkout page and fills up information(Name, Email, Address Phone) and order this service. (Note: this is a protected page after log in done then go to the checkout page)
+After a complete order, the user can see only his order. By default, this order is pending.
+But the admin can see all the orders and can also change order status in progress or done.
+Admin can be posting new services that’ll be added dynamically to the home page
+Add a field to add service image
+Add a field to add title
+Add a field to add a description
+Add a price
+[note: Admin all activity is protected page after complete log in then can do admin activity]
+use email: test@test.com and password: #2021dev as password for default admin. (custom authentication)
+Admin can also delete any blogs
+	
+	Additional information:
+Use react.js and typescript for the frontend. You are free to use any CSS library you want. But, we recommend using SASS.
+Feel free for using redux for data load
+The UI of the product page should be consistent with the home page, use your imagination to come up with something that’ll look good with the rest of the site.
